@@ -7,15 +7,12 @@
 
 |주차|공부 내용|YOUTUBE 발표 링크 + 발표 자료|
 |------|----|---|
-|1주차 / 2주차|1장 딥러닝이란 무엇인가? && 2장 신경망의 수학적 구성 요소 |
+|1주차 / 2주차|1장 딥러닝이란 무엇인가? && 2장 신경망의 수학적 구성 요소 ||
 |3주차|3장 신경망 시작하기|[I팀 컨퍼런스콜 3주차](https://www.youtube.com/watch?v=dftIMEDHFFA&list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7&index=1)|
-|4주차|4장 머신 러닝의 기본 요소|[I팀 컨퍼런스콜 4주차](https://www.youtube.com/watch?v=bDAltcc11OA&list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7&index=2)
-[케라수요일 발표자료](https://docs.google.com/presentation/d/1oHBfEAWcFgHyJaZ5nWtuX-5NHw17efqWOxQOFU9f5P0/edit#slide=id.p)|
+|4주차|4장 머신 러닝의 기본 요소|[I팀 컨퍼런스콜 4주차](https://www.youtube.com/watch?v=bDAltcc11OA&list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7&index=2)[케라수요일 발표자료](https://docs.google.com/presentation/d/1oHBfEAWcFgHyJaZ5nWtuX-5NHw17efqWOxQOFU9f5P0/edit#slide=id.p)|
 |5주차|5장 컴퓨터 비전을 위한 딥러닝 (1/2)|[I팀 컨퍼런스콜 5주차](https://www.youtube.com/watch?v=u6v4cWRcRt4&list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7&index=3)|
-|6주차|5장 컴퓨터 비전을 위한 딥러닝 (2/2)|[I팀 컨퍼런스콜 6주차](https://www.youtube.com/watch?v=jOgsBlA-k3o&list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7&index=4)
-[케라수요일 발표자료(https://docs.google.com/presentation/d/1S3kByj3zpCtJvSfAQC1rFlhD2ljqiXGgHvZJSqr4ECQ/edit#slide=id.ga159a1e654_4_0)|
+|6주차|5장 컴퓨터 비전을 위한 딥러닝 (2/2)|[I팀 컨퍼런스콜 6주차](https://www.youtube.com/watch?v=jOgsBlA-k3o&list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7&index=4)[케라수요일 발표자료(https://docs.google.com/presentation/d/1S3kByj3zpCtJvSfAQC1rFlhD2ljqiXGgHvZJSqr4ECQ/edit#slide=id.ga159a1e654_4_0)|
 |7주차|6장 텍스트와 시퀀스를 위한 딥러닝|[I팀 컨퍼런스콜 7주차](https://www.youtube.com/watch?v=y-aNMkgSQL4&list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7&index=5)|
-|8주차|7장 딥러닝을 위한 고급 도구|[I팀 컨퍼런스콜 8주차](https://www.youtube.com/watch?v=uI0aoXMBkQ0&list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7&index=6)
-[케라수요일 발표자료](https://docs.google.com/presentation/d/1GJC6OEZzfUkTwOvnNIpXppIqaZrgDIFaRJ2dUXZFEJk/edit#slide=id.p)|
+|8주차|7장 딥러닝을 위한 고급 도구|[I팀 컨퍼런스콜 8주차](https://www.youtube.com/watch?v=uI0aoXMBkQ0&list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7&index=6)[케라수요일 발표자료](https://docs.google.com/presentation/d/1GJC6OEZzfUkTwOvnNIpXppIqaZrgDIFaRJ2dUXZFEJk/edit#slide=id.p)|
 |9주차|8장 생성 모델을 위한 딥러닝|[I팀 컨퍼런스콜 9주차](https://www.youtube.com/watch?v=D4Z9x4YkJtQ&list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7&index=7)|
 |11주차|프로젝트 최종 발표 및 성과 공유|[I팀 컨퍼런스콜 11주차](https://www.youtube.com/watch?v=GHrb8dILj0k&list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7&index=9)|
