@@ -7,7 +7,7 @@
 
 |주차|공부 내용|YOUTUBE 발표 링크 + 발표 자료|
 |------|----|---|
-|1주차 / 2주차|테스트2|테스트3|
+|1주차 / 2주차|1. 딥러닝이란 무엇인가? / 2.신경망의 수학적 구성 요소||
 |3주차|3장 신경망 시작하기|[I팀 컨퍼런스콜 3주차](https://www.youtube.com/watch?v=dftIMEDHFFA&list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7&index=1)|
 |4주차|4장 머신 러닝의 기본 요소|[I팀 컨퍼런스콜 4주차](https://www.youtube.com/watch?v=bDAltcc11OA&list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7&index=2)|
 |5주차|5장 컴퓨터 비전을 위한 딥러닝 (1/2)|[I팀 컨퍼런스콜 5주차](https://www.youtube.com/watch?v=u6v4cWRcRt4&list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7&index=3)|
