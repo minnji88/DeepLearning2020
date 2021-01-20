@@ -16,4 +16,4 @@
 |7주차|2020.11.23|6장 텍스트와 시퀀스를 위한 딥러닝|[I팀 컨퍼런스콜 7주차](https://www.youtube.com/watch?v=y-aNMkgSQL4&list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7&index=5)<br/>[트리케라톱스 발표자료](https://github.com/sju-coml/SAI-2020-Team-I/blob/master/2%ED%95%99%EA%B8%B0-%ED%8A%B8%EB%A6%AC%EC%BC%80%EB%9D%BC%ED%86%B1%EC%8A%A4/6%EC%A3%BC%EC%B0%A8/6%EC%A3%BC%EC%B0%A8%20%ED%8A%B8%EB%A6%AC%EC%BC%80%EB%9D%BC%ED%86%B1%EC%8A%A4%20%EB%B0%9C%ED%91%9C.pdf)|
 |8주차|2020.12.21|7장 딥러닝을 위한 고급 도구|[I팀 컨퍼런스콜 8주차](https://www.youtube.com/watch?v=uI0aoXMBkQ0&list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7&index=6)|
 |9주차|2020.12.28|8장 생성 모델을 위한 딥러닝|[I팀 컨퍼런스콜 9주차](https://www.youtube.com/watch?v=D4Z9x4YkJtQ&list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7&index=7)<br/>[케라수요일 발표자료](https://docs.google.com/presentation/d/1GJC6OEZzfUkTwOvnNIpXppIqaZrgDIFaRJ2dUXZFEJk/edit#slide=id.p)|
-|11주차|2020.01.11|프로젝트 최종 발표 및 성과 공유|[I팀 컨퍼런스콜 11주차](https://www.youtube.com/watch?v=GHrb8dILj0k&list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7&index=9)|
+|11주차|2021.01.11|프로젝트 최종 발표 및 성과 공유|[I팀 컨퍼런스콜 11주차](https://www.youtube.com/watch?v=GHrb8dILj0k&list=PLArrI8JcN6ZAxE6I3m6qXEvKychJ6cTW7&index=9)|
